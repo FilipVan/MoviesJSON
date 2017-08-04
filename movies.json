@@ -1,4 +1,12 @@
 [
+  {
+  "products": [
+      {
+         "name": "Guild Wars 2 cool image",
+         "imgPath": "assets/gw.jpg"
+      }
+  ]
+  }
 {"title":"The Shawshank Redemption",
 "author":"Frank Darabont (dir.), Tim Robbins, Morgan Freeman",
 "rating":"9.2",
